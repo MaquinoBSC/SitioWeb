@@ -12,3 +12,8 @@ header{
     text-align: center;
     margin-top: 40px;
 }
+
+
+footer{
+    background: url(../img/smartphones.png), no-repeat;
+}
